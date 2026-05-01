@@ -1,6 +1,6 @@
 <?php
 require_once '/xampp/htdocs/chuyende2/admin/model/database.php';
-require_once '/xampp/htdocs/chuyende2/admin/model/lichtrinh.php';
+require_once '/xampp/htdocs/chuyende2/admin/model/lichtrinh.php;
 
 class LichtrinhController
 {
